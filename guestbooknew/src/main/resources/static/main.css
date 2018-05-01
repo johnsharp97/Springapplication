@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: thistle;
     font-family: sans-serif;
 }
 table {
@@ -9,16 +9,16 @@ table {
 th {
     font-size: 150%;
     text-align: left;
-    background-color: aquamarine;
+    background-color: teal;
     padding: 10px;
 }
 td {
     text-align: left;
-    background-color: azure;
+    background-color: teal;
     padding: 4px;}
 .warning {
     color: yellowgreen;
-    background-color: cadetblue;
+    background-color: thistle;
     display: inline;
     padding: 8px;
     border: 2px yellow;
